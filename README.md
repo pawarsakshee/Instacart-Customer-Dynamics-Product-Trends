@@ -71,7 +71,7 @@ The clustering results into 5 neat clusters and after checking most frequent pro
 - Cluster 4 results into 37949 consumers who have a very strong preference for fruits followed by fresh vegetables.
 - Cluster 5 results into 99100 consumers who orders products from many aisles. Their mean orders are low compared to other clusters which tells us that either they are not frequent users of Instacart or they are new users and do not have many orders yet. 
 
-## Markest Basket Analysis
+## Market Basket Analysis
 
 Market Basket Analysis is a modelling technique based upon the theory that if you buy a certain group of items, you are more or less likely to buy another group of items. Market basket analysis may provide the retailer with information to understand the purchase behavior of a buyer. This information can then be used for purposes of cross-selling and up-selling, in addition to influencing sales promotions, loyalty programs, store design, and discount plans.
 
